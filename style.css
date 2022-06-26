@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+header {
+    background-image: linear-gradient(rgb(163, 223, 43), rgb(199, 119, 119))
+}
+h1::before {
+    content: "👣"
+}
+h1::after {
+    content: "👣"
+}
+footer {
+    background-color: rgb(220, 90, 90);
+    padding: 7px;
+}
+.gg {
+    text-align: center;
+    font-size: 25px;
+}
+.trt {
+    background-color: white;
+}
